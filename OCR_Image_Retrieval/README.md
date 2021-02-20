@@ -27,7 +27,7 @@ The output images will be in a new output folder decided by users.
 Image:
 
 <p align="center">
-  <img align="middle" src="../metadata/01.jpg" width="400"/>
+  <img align="middle" src="../metadata/01.jpg" width="450"/>
 </p>
 
 Output:
