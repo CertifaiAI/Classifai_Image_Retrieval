@@ -26,7 +26,9 @@ The output images will be in a new output folder decided by users.
 
 Image:
 
-![](../metadata/01.jpg)
+<p align="center">
+  <img align="middle" src="../metadata/01.jpg" width="400"/>
+</p>
 
 Output:
 
