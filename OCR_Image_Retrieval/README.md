@@ -1,4 +1,4 @@
-#OCR Image Retrieval
+# OCR Image Retrieval
 
 OCR Image Retrieval consists of 3 scripts [Image Retieval](OCRImageRetrieve.ipynb), [Reflect Deletion](ReflectDeletion.ipynb) and [Merge All Folders](MergeFolders.ipynb).
 
