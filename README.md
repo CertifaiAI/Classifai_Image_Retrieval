@@ -4,11 +4,21 @@ Classifai_Image_Retrieval is a collection of Jupyter Notebook scripts for image 
 
 ## Scripts
 
-- OCR Image Retrieval
+- OCR
+- YOLO
+
+
 - TBC
 
-## Dependencies
+## Getting Started
+### Install Anaconda Individual Edition
 
-- [opencv-python](https://github.com/opencv/opencv-python)
-- [numpy](https://numpy.org/)
-- [ipyfilechooser](https://github.com/crahan/ipyfilechooser)
+Download and install [Anaconda](https://www.anaconda.com/products/individual).
+
+### Environment Setup
+
+Setup the conda environment by
+
+```
+conda env create -f environment.yml
+```
