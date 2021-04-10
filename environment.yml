@@ -1,0 +1,9 @@
+name: classifai-image-retrieval
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipyfilechooser=0.4.3
+  - jupyterlab=3.0.11
+  - opencv=3.4.2
+  - python=3.7
