@@ -6,9 +6,7 @@ Classifai_Image_Retrieval is a collection of Jupyter Notebook scripts for image 
 
 - OCR
 - YOLO
-
-
-- TBC
+- *More to Come*
 
 ## Getting Started
 ### Install Anaconda Individual Edition
