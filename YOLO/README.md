@@ -4,7 +4,7 @@
 
 
 **Step 1: Select all path**
-![](../metadata/09.png)
+![](../metadata/10.png)
 1. Image Path : folder that contains the images
 2. Label Path : folder that contains the label files (only txt files are required)
 3. Label file : *label.txt* file
