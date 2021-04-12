@@ -27,8 +27,8 @@ Image:
 
 <p align="center">
   <img align="left" src="../metadata/09.png" height="400"/>
-</p>
+</p><br />
 
-\Output:
+Output:
 
 ![](../metadata/07.png)
