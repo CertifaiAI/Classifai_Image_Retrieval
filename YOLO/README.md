@@ -25,10 +25,9 @@
 
 Image:
 
-<p align="center">
-  <img align="left" src="../metadata/09.png" height="400"/>
-</p><br />
-<br /><br />
+<p align="left">
+  <img src="../metadata/09.png" height="400"/>
+</p>
 Output:
 
 ![](../metadata/07.png)
