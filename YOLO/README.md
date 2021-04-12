@@ -26,7 +26,7 @@
 Image:
 
 <p align="center">
-  <img align="middle" src="../metadata/08.png" height="400"/>
+  <img src="../metadata/09.png" height="400"/>
 </p>
 
 Output:
