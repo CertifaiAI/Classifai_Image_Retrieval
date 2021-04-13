@@ -20,3 +20,9 @@ Setup the conda environment by
 ```
 conda env create -f environment.yml
 ```
+
+Activate the conda environment by
+
+```
+conda activate classifai-image-retrieval
+```
