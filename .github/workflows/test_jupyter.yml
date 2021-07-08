@@ -30,6 +30,6 @@ jobs:
       - name: Execute Flake8 to test
         shell: bash -l {0}
         run: |
-          for i in **/**; do 
+          for i in **/**.ipynb; do 
             flake8_nb --select=E9,F63,F7 --notebook-cell-format '{nb_path}:code_cell#{code_cell_count}' "$i"
           done
