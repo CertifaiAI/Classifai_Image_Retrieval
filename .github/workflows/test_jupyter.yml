@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    name: Test Notebook with Python 3.9
+    name: Test Notebook 
     runs-on: ubuntu-latest
 
     steps:
@@ -20,7 +20,7 @@ jobs:
         uses: conda-incubator/setup-miniconda@v2
         with:
           activate-environment: classifai-image-retrieval
-          python-version: 3.9
+          environment-file: environment.yml
 
       - name: Install dependencies
         shell: bash -l {0}
