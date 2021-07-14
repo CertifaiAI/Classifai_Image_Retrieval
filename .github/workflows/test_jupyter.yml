@@ -5,11 +5,11 @@ on:
       - main
 
   pull_request:
-    types: [synchronize, review_requested]
+    branches: '**' # Any PR raised will trigger the workflow by 'opened, synchronize & reopened' events
 
 jobs:
   build:
-    name: Test Notebook
+    name: Test Notebook with Python 3.9
     runs-on: ubuntu-latest
 
     steps:
@@ -20,11 +20,11 @@ jobs:
         uses: conda-incubator/setup-miniconda@v2
         with:
           activate-environment: classifai-image-retrieval
+          python-version: 3.9
 
       - name: Install dependencies
         shell: bash -l {0}
         run: |
-          conda install pip
           pip install flake8_nb
           
       - name: Execute Flake8 to test
